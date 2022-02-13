@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Olá meu nome é Samuel tenho 21 anos atualmente estudo Analise e Desenvolvimento de Sistemas.
-Estou estudando: C# e Phyton e javascript.
+Estou estudando: C# e javascript.
 Tenho conhecimento: JAVA
 
 - 💻 Atualmente Estudando C#.

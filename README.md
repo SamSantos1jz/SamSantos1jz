@@ -19,7 +19,7 @@ Olá meu nome é Samuel tenho 21 anos atualmente estudo Analise e Desenvolviment
 Estou estudando: C# e javascript.
 Tenho conhecimento: JAVA
 
-- 💻 Atualmente Estudando C#.
+
 - 📫 Email: samsantos1jz@gmail.com
 
 <div align="center">

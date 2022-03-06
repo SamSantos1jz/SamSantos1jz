@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Olá meu nome é Samuel tenho 21 anos atualmente estudo Analise e Desenvolvimento de Sistemas na Unisanta, mas ja cursei tecnico em desenvolvimento de sistemas na ETEC.
+Olá meu nome é Samuel atualmente estudo Analise e Desenvolvimento de Sistemas na Unisanta, mas ja cursei tecnico em desenvolvimento de sistemas na ETEC.
 Estou estudando: C# e javascript.
 Tenho conhecimento: JAVA
 

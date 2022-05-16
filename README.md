@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Olá meu nome é Samuel atualmente estudo Analise e Desenvolvimento de Sistemas na Unisanta, mas ja cursei tecnico em desenvolvimento de sistemas na ETEC.
-Estou estudando: C# e JAVA.
+Estudei C# mas ultimamente estou me aprofundando em JAVA.
 
 
 
